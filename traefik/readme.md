@@ -17,7 +17,8 @@ mkdir -p /opt/containers/{traefik,portainer}
 mkdir -p /opt/containers/traefik/data
 touch /opt/containers/traefik/data/acme.json
 chmod 600 /opt/containers/traefik/data/acme.json
-touch /opt/containers/traefik/data/traefik.yml```
+touch /opt/containers/traefik/data/traefik.yml
+```
 
-# acme.json stores the HTTPS certificates.
+### acme.json stores the HTTPS certificates.
 
