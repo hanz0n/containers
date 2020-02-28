@@ -19,5 +19,5 @@ touch /opt/containers/traefik/data/acme.json
 chmod 600 /opt/containers/traefik/data/acme.json
 touch /opt/containers/traefik/data/traefik.yml```
 
-""acme.json stores the HTTPS certificates.""
+# acme.json stores the HTTPS certificates.
 
